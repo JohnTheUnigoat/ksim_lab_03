@@ -65,9 +65,7 @@
 
 ![image](https://github.com/user-attachments/assets/e36c5749-eeab-4e9a-9d2b-a5b5bedd65d2)
 
-**Налаштування алгоритму пошуку** (вкладка Search Algorithm):  
-Загальний вид вкладки налаштувань алгоритму пошуку:  
-![Вкладка налаштувань пошуку](example-search.png)
+**Налаштування алгоритму пошуку** (вкладка Search Algorithm):
 
 <br>
 
